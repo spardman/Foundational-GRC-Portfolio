@@ -23,7 +23,7 @@ This integrated approach reduces **audit findings**, improves **compliance adher
 ### 1. Governance & Policy Suite
 *   [Information Security Policy (ISP)](./Information_Security_Policy.md) - *High-level strategy and security charter.*
 *   [Acceptable Use Policy (AUP)](./Acceptable_Use_Policy.md) - *Human-centric security and user conduct standards.*
-*   [Vulnerability Management Policy](./Vulnerability_Management_Policy.md) - *Technical standards for risk identification and remediation.*
+*   [Vulnerability Management Policy](policies/vulnerability-management.md) - *Technical standards for risk identification and remediation.*
 
 ### 2. Risk Management Framework
 *   [Risk Assessment Methodology](./Risk_Assessment_Methodology.md) - *Standardized Impact/Likelihood scoring criteria.*

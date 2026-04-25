@@ -1,0 +1,23 @@
+# Information Security Risk Register
+**Last Updated:** 2024-05-20  
+**Owner:** GRC Lead / IT Management
+
+## Risk Scoring Matrix
+*   **Impact (1-5):** 1 (Low) to 5 (Critical)
+*   **Likelihood (1-5):** 1 (Rare) to 5 (Almost Certain)
+*   **Risk Score:** Impact x Likelihood
+
+## Active Risk Register
+
+
+| Risk ID | Risk Description | Impact | Likelihood | Score | Mitigation Strategy | Residual Risk | Policy Mapping |
+| :--- | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
+| RR-001 | Unauthorized access to export-controlled data via inherited AD permissions. | 5 | 3 | 15 | Implement PoLP; conduct quarterly AD group audits. | Low | [Access Control Policy](./Information_Security_Policy.md) |
+| RR-002 | Data loss of sensitive M365 files due to lack of enforced DLP policies. | 4 | 2 | 8 | Enforce Microsoft Purview DLP and backup-recovery protocols. | Low | [Data Protection Policy](./Information_Security_Policy.md) |
+| RR-003 | Delayed patching of critical vulnerabilities on remote workstations. | 4 | 4 | 16 | Automate patching workflows via ServiceNow and endpoint management. | Medium | [Vulnerability Mgmt Policy](./Vulnerability_Management_Policy.md) |
+
+## Revision History
+
+| Version | Date | Author | Description |
+| :--- | :--- | :--- | :--- |
+| 1.0 | 2024-05-20 | [Your Name] | Initial Risk Register creation. |

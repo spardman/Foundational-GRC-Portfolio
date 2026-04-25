@@ -28,4 +28,4 @@ This portfolio demonstrates the operationalization of IT Governance by bridging 
 
 ---
 ## 📫 Contact & Professional Profiles
-*   [LinkedIn][(Your-LinkedIn-URL-Here)](https://www.linkedin.com/in/dwan-edwards/)
+*   [LinkedIn][(https://www.linkedin.com/in/dwan-edwards/)

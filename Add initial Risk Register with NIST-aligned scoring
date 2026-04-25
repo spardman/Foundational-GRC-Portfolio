@@ -12,7 +12,7 @@ See our full [Risk Assessment Methodology](./Risk_Assessment_Methodology.md) for
 ## Active Risk Register
 
 
-| Risk ID | Risk Description | Impact | Likelihood | Score | Mitigation Strategy | Residual Risk | Policy Mapping |
+| Risk ID | Risk Description | Impact | Likelihood | [Score](./README.md#️-risk-assessment-methodology-1-5-scale) | Mitigation Strategy | Residual Risk | Policy Mapping |
 | :--- | :--- | :---: | :---: | :---: | :--- | :---: | :--- |
 | RR-001 | Unauthorized access to export-controlled data via inherited AD permissions. | 5 | 3 | 15 | Implement PoLP; conduct quarterly AD group audits. | Low | [Access Control Policy](./Information_Security_Policy.md) |
 | RR-002 | Data loss of sensitive M365 files due to lack of enforced DLP policies. | 4 | 2 | 8 | Enforce Microsoft Purview DLP and backup-recovery protocols. | Low | [Data Protection Policy](./Information_Security_Policy.md) |

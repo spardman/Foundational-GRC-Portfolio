@@ -21,7 +21,7 @@ This integrated approach reduces **audit findings**, improves **compliance adher
 ## 📖 Master Table of Contents
 
 ### 1. Governance & Policy Suite
-*   [Information Security Policy (ISP)] (./Information_Secruity_Policy.md) - *High-level strategy and security charter.*
+*   [Information Security Policy (ISP)](policies/Information_Security_Policy.md) - *High-level strategy and security charter.*
 *   [Acceptable Use Policy (AUP)](./Acceptable_Use_Policy.md) - *Human-centric security and user conduct standards.*
 *   [Vulnerability Management Policy](policies/vulnerability-management.md) - *Technical standards for risk identification and remediation.*
 

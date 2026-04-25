@@ -18,6 +18,8 @@ See our full [Risk Assessment Methodology](./Risk_Assessment_Methodology.md) for
 | RR-002 | Data loss of sensitive M365 files due to lack of enforced DLP policies. | 4 | 2 | 8 | Enforce Microsoft Purview DLP and backup-recovery protocols. | Low | [Data Protection Policy](./Information_Security_Policy.md) |
 | RR-003 | Delayed patching of critical vulnerabilities on remote workstations. | 4 | 4 | 16 | Automate patching workflows via ServiceNow and endpoint management. | Medium | [Vulnerability Mgmt Policy](./Vulnerability_Management_Policy.md) |
 
+| RR-004 | Supply Chain: Critical Vendor Dependency | 3 | 4 | 12 | Implement multi-vendor strategy and maintain 30-day safety stock. | Dwan Edwards | Open |
+
 ## Revision History
 
 | Version | Date | Author | Description |

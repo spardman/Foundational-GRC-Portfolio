@@ -1,3 +1,11 @@
+# Enterprise GRC Portfolio & Policy Library
+
+![Branch Protection](https://shields.io)
+![Security Advisor](https://shields.io)
+![MBA](https://shields.io)
+![Security+](https://shields.io)
+
+---
 # 🏛️ Enterprise GRC & IT Governance Library
 **Organization:** PureCarbon Cycle Works  
 **Lead Consultant:** Dwan Edwards, MBA  
@@ -5,16 +13,19 @@
 
 ---
 ## Management Summary: Enterprise GRC Framework
+
 **Purpose & Scope**
-This framework establishes a unified governance structure designed to protect organizational assets and ensure regulatory compliance. By integrating foundational policies with proactive risk management, this suite addresses the full lifecycle of information security—from user conduct to technical vulnerability remediation.
+This framework establishes a **unified governance structure** designed to protect organizational assets and ensure **regulatory compliance**. By integrating foundational policies with proactive **risk management**, this suite addresses the full lifecycle of information security—from user conduct to **technical vulnerability remediation**.
 
 **Framework Pillars**
 *   **Governance (ISP):** Defines the overarching security posture and leadership commitment to safeguarding intellectual property.
-*   **Risk Management (Vulnerability Management):** Implements a systematic approach to identify, assess, and mitigate technical risks before they impact business continuity.
-*   **Compliance (AUP):** Establishes clear behavioral standards for workforce members, reducing internal friction and ensuring adherence to legal and ethical requirements.
+*   **Risk Management (Vulnerability Management):** Implements a **systematic approach** to identify, assess, and mitigate technical risks before they impact business continuity.
+*   **Compliance (AUP):** Establishes clear behavioral standards for workforce members, reducing internal friction and ensuring adherence to **legal and ethical requirements**.
+*   **Incident Response (Security Advisor):** Active vulnerability reporting and **incident management** via GitHub Security Advisories. Demonstrates a proactive approach to identifying and remediating **integrity breaches**.
 
 **Strategic Value**
-This integrated approach reduces audit findings, improves compliance adherence, and transforms complex security challenges into a manageable pillar of organizational defense.
+This integrated approach reduces **audit findings**, improves **compliance adherence**, and transforms complex security challenges into a manageable pillar of **organizational defense**.
+
 
 ## 📖 Master Table of Contents
 

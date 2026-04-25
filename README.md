@@ -37,6 +37,32 @@ This portfolio demonstrates the operationalization of IT Governance by bridging 
 *   **Audit Readiness**: Built-in revision history tables for every artifact.
 *   **Strategic Alignment**: Policies are tailored from SANS Institute standards to meet NIST CSF requirements.
 
+## 🛡️ Risk Assessment Methodology (1-5 Scale)
+To ensure objective and repeatable results, this portfolio utilizes a **5x5 Qualitative Risk Matrix** aligned with **NIST SP 800-30**.
+
+### 1. Likelihood Definitions
+
+| Score | Descriptor | Definition |
+| :---: | :--- | :--- |
+| **5** | Almost Certain | Expected to occur multiple times per year. |
+| **4** | Likely | Has occurred in the past; likely to occur annually. |
+| **3** | Possible | Might occur at some point; 50/50 probability. |
+| **2** | Unlikely | Not expected, but documented in similar industries. |
+| **1** | Rare | Highly unlikely; only in exceptional circumstances. |
+
+### 2. Impact Definitions
+
+| Score | Descriptor | Operational/Financial Impact |
+| :---: | :--- | :--- |
+| **5** | Critical | >$1M loss; total system failure; breach of PII. |
+| **4** | Major | $250k - $1M loss; significant downtime (>24hrs). |
+| **3** | Moderate | $50k - $250k loss; minor service disruption. |
+| **2** | Minor | <$50k loss; negligible impact on operations. |
+| **1** | Insignificant | No financial loss; no downtime recorded. |
+
+---
+**Risk Score Calculation:** `Likelihood x Impact = Total Risk Score (1-25)`
+
 ---
 ## 📫 Contact & Professional Profiles
 *   [LinkedIn][(https://www.linkedin.com/in/dwan-edwards/)

@@ -1,11 +1,3 @@
-# Enterprise GRC Portfolio & Policy Library
-
-![Branch Protection](https://shields.io)
-![Security Advisor](https://shields.io)
-![MBA](https://shields.io)
-![Security+](https://shields.io)
-
----
 # 🏛️ Enterprise GRC & IT Governance Library
 **Organization:** PureCarbon Cycle Works  
 **Lead Consultant:** Dwan Edwards, MBA  

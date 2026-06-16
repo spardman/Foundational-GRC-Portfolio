@@ -67,4 +67,5 @@ To ensure objective and repeatable results, this portfolio utilizes a **5x5 Qual
 
 ---
 ## 📫 Contact & Professional Profiles
-*   [LinkedIn][(https://www.linkedin.com)
+* LinkedIn: [https://www.linkedin.com/in/dwan-edwards/](https://www.linkedin.com/in/dwan-edwards/)
+
